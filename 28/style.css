@@ -1,0 +1,41 @@
+body{
+    margin:0px;
+}
+#news{
+    background-color:navy;
+    width:100%;
+    border-radius:30px;
+}
+ul{
+    list-style:none;
+    display:flex;
+    justify-content:space-between;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-right:30px;
+    padding-left:30px;
+}
+a{
+    text-decoration:none;
+    color:white;
+    margin:20px;
+}
+#news a:hover{
+    background-color:#9900ff;
+    color:navy;
+    padding:10px;
+    border-radius:30px;
+}
+#new{
+    background-color:#666666;
+    color:white;
+    text-align:center; 
+    padding-top:100px;
+    padding-bottom:100px;
+    border-radius:30px;
+}
+#new ul{
+    margin:auto;
+    display:block;
+    margin:10px;
+}
